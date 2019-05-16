@@ -1,0 +1,4 @@
+html{
+    touch-action: none!important;
+    touch-action: manipulation!important;
+}
